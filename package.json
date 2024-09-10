@@ -1,0 +1,20 @@
+{
+  "name": "apiweb",
+  "version": "1.0.0",
+  "description": "Api Web UNAHUR",
+  "main": "index.js",
+  "scripts": {
+    "test2": "node test.js",
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Bruno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

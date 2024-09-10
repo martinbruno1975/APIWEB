@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "nombre": "Vikingos",
+        "plataforma": "netflix",
+        "disponible": true
+    },
+    {
+        "id":12,
+        "nombre": "The Breaking Bad",
+        "plataforma": "netflix",
+        "disponible": false
+    },
+    {
+        "id":2,
+        "nombre": "El Encargado",
+        "plataforma": "Star+",
+        "disponible": true
+    }
+]
